@@ -1,5 +1,5 @@
 <form action="/action_page.php">
-  <h2>Register Form for Devops Formation 2022</h2>
+  <h2>Register Form for Devops Formation 2022-23</h2>
   <div class="input-container">
     <i class="fa fa-user icon"></i>
     <input class="input-field" type="text" placeholder="Username" name="usrnm">
