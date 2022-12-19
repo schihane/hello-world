@@ -1,6 +1,5 @@
 <form action="/action_page.php">
-  <style type="text/css">
-    placeholder { color: red; }  
+  <style type="text/css"> 
     h2 { color: blue; }  
   </style>
 
