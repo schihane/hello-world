@@ -4,7 +4,7 @@
   </style>
 
 
-  <h2>Register form for DEVOPS - The Nuum Factory 2022-2023</h2>
+  <h2>Register form for Devops - The Nuum Factory 2022-2023</h2>
   <div class="input-container">
     <i class="fa fa-user icon"></i>
     <input class="input-field" type="text" placeholder="Username" name="usrnm">
