@@ -1,10 +1,10 @@
 <form action="/action_page.php">
   <style type="text/css"> 
-    h2 { color: blue; }  
+    h2 { color: rgb(51, 51, 105); }  
   </style>
 
 
-  <h2>Register form for Devops - The Nuum Factory 2022-2023</h2>
+  <h2>Register form for DEVOPS - The Nuum Factory 2022-2023</h2>
   <div class="input-container">
     <i class="fa fa-user icon"></i>
     <input class="input-field" type="text" placeholder="Username" name="usrnm">
@@ -12,7 +12,7 @@
 
   <div class="input-container">
     <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="Email" name="email">
+    <input class="input-field" type="text" placeholder="Email" name="email" color: rgb(51, 51, 105)>
   </div>
 
   <div class="input-container">
