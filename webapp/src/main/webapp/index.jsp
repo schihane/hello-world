@@ -5,7 +5,7 @@
   </style>
 
 
-  <h2>Register form for Devops Formation</h2>
+  <h2>Register form for DevopS Formation</h2>
   <h3>The Nuum Factory - session 2022-2023</h3>
   <div class="input-container">
     <i class="fa fa-user icon"></i>
