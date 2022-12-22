@@ -6,7 +6,7 @@
 
 
   <h2>Register form for Devops Formation</h2>
-  <h3>The Nuum Factory - session 2022-2023</h3>
+  <h3>The Nuum Factory - session 2022 - 2023</h3>
   <div class="input-container">
     <i class="fa fa-user icon"></i>
     <input class="input-field" type="text" placeholder="Username" name="usrnm">
